@@ -1,0 +1,17 @@
+{
+  "name": "cypress-practice",
+  "version": "1.0.0",
+  "description": "Cypress Practice",
+  "main": "index.js",
+  "scripts": {
+    "test:runner": "node_modules\\.bin\\cypress open",
+    "test": "node_modules\\.bin\\cypress run --config pageLoadTimeout=100000",
+    "run:tests": "npm run test --"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
