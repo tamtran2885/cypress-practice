@@ -181,8 +181,8 @@ This Record will capture the result, the video, and the screenshot where the tes
 
 - Start Run Build
 
-## Reference:
+## 🔗 Reference:
 
-[Cypress Official Document](https://www.cypress.io/)
-[Cypress Page Object Model](https://www.browserstack.com/guide/cypress-page-object-model)
-[SDET - Tutorial](https://www.youtube.com/c/pavanoltraining)
+- [Cypress Official Document](https://www.cypress.io/)
+- [Cypress Page Object Model](https://www.browserstack.com/guide/cypress-page-object-model)
+- [SDET - Tutorial](https://www.youtube.com/c/pavanoltraining)
