@@ -1,3 +1,5 @@
+# Cypress-UI-API-Test-Automation
+
 ## Information on Cypress:
 
 ### 1. What is Cypress ?
@@ -27,10 +29,10 @@ Cypress ia an Open source tool and consists of:
 - Cypress does not use Selenium.
 - Focuses on doing end-to-end testing well.
 - Cypress works on any front-end framework or website.
-- Tests are only written in Javascript.
+- Tests are only written in Javascript/Typescript.
 - Cypress is all in one: all-in-one testing framework, assertion library, with mocking and stubbing, all without Selenium.
 - Cypress is for developers (for unit and integration testing) and QA engineers (functional testing or API testing).
-- Cypress runs much, much faster.
+- Cypress runs faster.
 
 ### 5. Features
 
@@ -45,8 +47,7 @@ Cypress ia an Open source tool and consists of:
 
 ### 6. Limitations
 
-- Support Limited set of browsers - Chrome, Canary , electron
-- Page Object Model is not supported
+- Support Limited set of browsers - Chrome, Canary, electron.
 - Tough to read data from files
 - Third Party Reporting integration is limited, we have to use build-in reporting mechanism (Dashboard Service)
 
@@ -186,3 +187,4 @@ This Record will capture the result, the video, and the screenshot where the tes
 - [Cypress Official Document](https://www.cypress.io/)
 - [Cypress Page Object Model](https://www.browserstack.com/guide/cypress-page-object-model)
 - [SDET - Tutorial](https://www.youtube.com/c/pavanoltraining)
+- [GoREST API](https://gorest.co.in/)
